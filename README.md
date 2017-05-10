@@ -1,0 +1,2 @@
+# SandLot
+Practice Firebase project
